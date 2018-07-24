@@ -3,3 +3,5 @@
 /Library
 /obj
 /Assembly-CSharp.csproj
+/*.sln
+/.vs
